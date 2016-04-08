@@ -1,0 +1,8 @@
+alias n2='echo c:\\users\\bichongl\\onedrive\\app\\n2.exe $1 @`pwd`@>/mnt/c/users/bichongl/BashMatee
+.txt'
+alias sb='echo c:\\users\\bichongl\\onedrive\\app\\sb.cmd $1 @`pwd`@>/mnt/c/users/bichongl/BashMatee
+.txt'
+alias notepad='echo c:\\windows\\notepad.exe $1 @`pwd`@>/mnt/c/users/bichongl/BashMate.txt'
+alias np='echo c:\\users\\bichongl\\onedrive\\app\\np.cmd $1 @`pwd`@>/mnt/c/users/bichongl/BashMatee
+.txt'
+alias ew='echo c:\\app\\emacs-24.3\\bin\\ew.cmd $1 @`pwd`@>/mnt/c/users/bichongl/BashMate.txt'
